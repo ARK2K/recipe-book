@@ -162,7 +162,7 @@ service cloud.firestore {
    firebase deploy --only hosting
    ```
 
-Your app will be live at `https://recipe-book-ark-7408a.web.app`
+Your app will be live at `https://your-project.web.app`
 
 ## Environment Variables
 
